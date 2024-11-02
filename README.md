@@ -29,7 +29,25 @@ Introducing the **Not So Friendly Chatbot**—a solution nobody specifically req
 
 ## Implementation
 
-### Installation
-To get started with the **Not So Friendly Chatbot**, follow these steps:
+### Installation on Replit
+To get started with the **Not So Friendly Chatbot** on Replit, follow these steps:
+
+1. Create a new Replit project and select **Python** as the template.
+
+2. In the Replit editor, create the following files:
+   - `app.py` (for the backend)
+   - `index.html` (for the frontend)
+
+3. Copy and paste the provided code into their respective files:
+   - Paste the backend Flask code into `app.py`.
+   - Paste the HTML, CSS, and JavaScript code into `index.html`.
+
+4. Install the required package by adding `Flask` in the **Packages** sidebar on the left.
+
+### Running the Application
+To run the application, click on the **Run** button at the top of the Replit interface. This will start the Flask server.
+
+You can access the chatbot interface by clicking on the **Open in a new tab** button, or by navigating to the provided URL in your web browser.
+
 
 
