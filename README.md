@@ -17,7 +17,7 @@ In a world where friendly chatbots dominate, the problem that never existed was 
 Introducing the **Not So Friendly Chatbot**—a solution nobody specifically requested! By combining roasting with a nonresponsiveness, it engages users in unexpected ways, challenging the status quo of conventional chatbots.
 
 ## Technology Used
-1. **Languages**: Python, HTML
+1. **Languages**: Python, HTML,css,javascript
 2. **Framework**: Flask
 3. **Libraries Used**:
    - Flask (for the backend server)
