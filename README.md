@@ -49,6 +49,12 @@ To get started with the **Not So Friendly Chatbot** on Replit, follow these step
 To run the application, click on the **Run** button at the top of the Replit interface. This will start the Flask server.
 
 You can access the chatbot interface by clicking on the **Open in a new tab** button, or by navigating to the provided URL in your web browser.
+##Project documentaion
+###ScreenShot
+##1)![image](https://github.com/user-attachments/assets/201e436a-a56b-412f-a35f-f86a4eba0cbd)
+##2)![image](https://github.com/user-attachments/assets/8d7dd325-d116-48af-b904-d8c81f8c3b43)
+##3)![image](https://github.com/user-attachments/assets/33ef232d-f173-4239-b61a-40de38fcd83a)
+
 
 
 
