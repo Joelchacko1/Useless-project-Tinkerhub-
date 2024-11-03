@@ -1,8 +1,10 @@
 from flask import Flask, request, jsonify, render_template, session
 import random
 import os
+from flask_cors import CORS  # Import the CORS package
 
 app = Flask(__name__)
+CORS(app)  # Apply CORS to the Flask app
 app.secret_key = os.urandom(24)  # Secret key for session management
 
 greeting_responses = [
