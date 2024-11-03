@@ -8,7 +8,7 @@ Not So Friendly Chatbot
 ### Team Members: Joel Joy
 
 ## Project Description
-Welcome to **Not So Friendly Chatbot**—a quirky conversational bot designed to engage users with a mix of humor and sass. While it may not always be friendly, it brings a unique flavor to automated chats, making interactions both entertaining and slightly unpredictable.
+This project is a unique twist on the traditional chatbot—a friendly assistant with a subtle edge of sarcasm and humor! Disguised as a helpful chatbot, it starts conversations in a friendly, welcoming way, responding to greetings and typical inquiries. But as the chat continues, it ramps up with witty, light-hearted roasts based on the user’s responses. The bot stores conversation history to add context to its replies, keeping the roast fresh and layered. Designed with an artistic, dynamic frontend, it promises engaging interactions with a touch of playful banter, blending functionality and fun for an entertaining user experience.
 
 ## The Problem
 In a world where friendly chatbots dominate, the problem that never existed was the lack of roasting and witty bots to keep conversations lively. People were never really asking for a chatbot that could roast them while not providing answers to their questions and unnesscary not related answers
