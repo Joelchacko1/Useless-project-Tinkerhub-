@@ -5,7 +5,6 @@ import os
 app = Flask(__name__)
 app.secret_key = os.urandom(24)  # Secret key for session management
 
-# Define greeting responses
 greeting_responses = [
     "Hello! How can I assist you today?",
     "Hi there! What would you like to know?",
@@ -19,7 +18,6 @@ greeting_responses = [
     "Oh, it's you! Let’s make this chat worth the time, shall we?",
 ]
 
-# Expanded combined responses with context-aware roasts
 combined_responses = [
     "Sure, I'm following... sort of. Did you lose your train of thought?",
     "Ah, the complexity of your thoughts is... inspiring. It's like a puzzle missing half the pieces.",
@@ -59,7 +57,6 @@ combined_responses = [
     "Wow, that question was so unexpected. I nearly dozed off.",
 ]
 
-# Generate a response based on conversation phase and user input
 def generate_response(user_input):
     # Initialize conversation history if it's empty
     if 'conversation_history' not in session:
